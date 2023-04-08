@@ -1,8 +1,8 @@
 {
   "name": "learning-vocab-backend",
   "version": "0.0.1",
-  "description": "",
-  "author": "",
+  "description": "WebAPI service for learning vocabulary",
+  "author": "Dmitriy Tikhomirov, Denis Melnik",
   "private": true,
   "license": "UNLICENSED",
   "scripts": {
